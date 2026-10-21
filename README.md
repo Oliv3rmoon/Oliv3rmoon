@@ -65,6 +65,7 @@ If you find my projects useful, you can [buy me a coffee](https://buymeacoffee.c
 
 ## Support
 
-If something I made saved you some time, you can buy me a coffee.
+If something I made saved you some time, you can buy me a coffee. For my PS5 homebrew (ProsperoEden, ProsperoTV), bug reports and test builds, join The Commons on Discord.
 
 <a href="https://buymeacoffee.com/oliv3rmoon"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"></a>
+<a href="https://discord.gg/pSqgRU3YP9"><img src="https://img.shields.io/badge/Discord-The%20Commons-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord: The Commons"></a>
