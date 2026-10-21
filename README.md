@@ -60,3 +60,11 @@ Happy to share any of it on request.
 ## Support my work
 
 If you find my projects useful, you can [buy me a coffee](https://buymeacoffee.com/oliv3rmoon). Thanks for the support!
+
+---
+
+## Support
+
+If something I made saved you some time, you can buy me a coffee.
+
+<a href="https://buymeacoffee.com/oliv3rmoon"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"></a>
