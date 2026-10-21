@@ -54,3 +54,9 @@ and on getting better at the fundamentals underneath the projects above.
 Most of my repositories are private right now while I document them properly. I'd
 rather publish a few things explained well than a lot of things explained not at all.
 Happy to share any of it on request.
+
+---
+
+## Support my work
+
+If you find my projects useful, you can [buy me a coffee](https://buymeacoffee.com/oliv3rmoon). Thanks for the support!
